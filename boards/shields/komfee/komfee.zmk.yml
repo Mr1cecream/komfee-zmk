@@ -1,0 +1,11 @@
+file_format: "1"
+id: komfee
+name: Komfee
+type: shield
+url: https://github.com/Mr1cecream/Komfee/
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - komfee_left
+  - komfee_right

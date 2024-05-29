@@ -1,0 +1,5 @@
+config SHIELD_KOMFEE_LEFT
+    def_bool $(shields_list_contains,komfee_left)
+
+config SHIELD_KOMFEE_RIGHT
+    def_bool $(shields_list_contains,komfee_right)
